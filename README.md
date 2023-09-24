@@ -1,7 +1,9 @@
 # Lost-Place
-Lost Place is a game made by 6 people including me during BGDC Talent Group Program (also the first real game I programed)
+Lost Place is a game made by 6 people including me during BGDC Talent Group Program (also the first real game I programed) <br>
 
-Lost place is a survival game about a detective who wakes up in a dark room. The ambient of the game is exploration of liminal space, and as you navigate through the maze, you'll confront dangers, all while you try to escape.
+Lost place is a survival game about a detective who wakes up in a dark room. The ambient of the game is exploration of liminal space, and as you navigate through the maze, you'll confront dangers, all while you try to escape. <br>
+
+Link to the Game: https://bgdc.itch.io/lost-place
 
 # Story
 You are a lost detective, waking up in a strange room where boundaries between reality and imagination fade, completely devoid of memories on how you got here. But you know that, in order to escape escape, you must locate a key within the labyrinth-like mansion while confronting the many dangerous creatures that resides there.
