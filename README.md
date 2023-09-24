@@ -23,10 +23,10 @@ Reload 	R
 Use Medkit	H
 
 # Credits 
-Ida Bagus Kuwera Girinda Putra - Supervisor 
-Yohanes Duns Scotus A. T - Team Manager 
-Viero Famico - Programmer 
-Kenneth Manuel T - Game Designer
-Nathania Joscelind - Game Artist 
-Ariq Bimo Nurputro - Game Artist
-Garibaldi Britann Abdillah - Sound
+Ida Bagus Kuwera Girinda Putra - Supervisor <br>
+Yohanes Duns Scotus A. T - Team Manager <br>
+Viero Famico - Programmer <br>
+Kenneth Manuel T - Game Designer <br>
+Nathania Joscelind - Game Artist <br>
+Ariq Bimo Nurputro - Game Artist <br>
+Garibaldi Britann Abdillah - Sound <br>
