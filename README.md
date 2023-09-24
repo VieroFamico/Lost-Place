@@ -13,20 +13,20 @@ The player must locate a key within the labyrint in order to escape, armed with 
 Find the key and get out.
 
 # Player Control:
-Movement 	[W][A][S][D]
-Left mouse button	Shoot
-Equip Gun	1
-Equip Glowstick	2
-Back to unarmed	Q
-Pick up item	E
-Reload 	R 
-Use Medkit	H
+Movement 	[W][A][S][D] <br>
+Left mouse button	Shoot <br>
+Equip Gun	1 <br>
+Equip Glowstick	2 <br>
+Back to unarmed	Q <br>
+Pick up item	E <br>
+Reload 	R <br>
+Use Medkit	H <br>
 
 # Credits 
-Ida Bagus Kuwera Girinda Putra - Supervisor <br>
-Yohanes Duns Scotus A. T - Team Manager <br>
-Viero Famico - Programmer <br>
-Kenneth Manuel T - Game Designer <br>
-Nathania Joscelind - Game Artist <br>
-Ariq Bimo Nurputro - Game Artist <br>
-Garibaldi Britann Abdillah - Sound <br>
+Ida Bagus Kuwera Girinda Putra - **Supervisor** <br>
+Yohanes Duns Scotus A. T - **Team Manager** <br>
+Viero Famico - **Programmer** <br>
+Kenneth Manuel T - **Game Designer** <br>
+Nathania Joscelind - **Game Artist** <br>
+Ariq Bimo Nurputro - **Game Artist** <br>
+Garibaldi Britann Abdillah - **Sound** <br>
