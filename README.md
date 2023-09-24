@@ -13,14 +13,17 @@ The player must locate a key within the labyrint in order to escape, armed with 
 Find the key and get out.
 
 # Player Control:
-Movement 	[W][A][S][D] <br>
-Left mouse button	Shoot <br>
-Equip Gun	1 <br>
-Equip Glowstick	2 <br>
-Back to unarmed	Q <br>
-Pick up item	E <br>
-Reload 	R <br>
-Use Medkit	H <br>
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W,A,S,D           | Movement          |
+| Shift             | Sprint            |
+| Left Click        | Fire              |
+| Q                 | Unarmed           |
+| 1                 | Select Gun        |
+| 2                 | Select GlowStick  |
+| E                 | Interact          |
+| R                 | Reload            |
+| H                 | Use Medkit        |
 
 # Credits 
 Ida Bagus Kuwera Girinda Putra - **Supervisor** <br>
