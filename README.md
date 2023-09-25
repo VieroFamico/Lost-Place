@@ -5,7 +5,9 @@ Lost place is a survival game about a detective who wakes up in a dark room. The
 
 Link to the Game: https://bgdc.itch.io/lost-place
 
-<img align="center" src="https://github.com/VieroFamico/Lost-Place/assets/145670324/da56175a-c46c-426a-b13c-269151ff3ed7">
+<p align="center" width="100%">
+<img src="https://github.com/VieroFamico/Lost-Place/assets/145670324/da56175a-c46c-426a-b13c-269151ff3ed7">
+</p>
 
 # Story
 You are a lost detective, waking up in a strange room where boundaries between reality and imagination fade, completely devoid of memories on how you got here. But you know that, in order to escape escape, you must locate a key within the labyrinth-like mansion while confronting the many dangerous creatures that resides there.
