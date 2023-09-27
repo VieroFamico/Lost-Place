@@ -27,6 +27,10 @@ The player must locate a key within the labyrint in order to escape, armed with 
 <img src="https://github.com/VieroFamico/Lost-Place/assets/145670324/9bbbbae5-d936-49f8-af31-3d828f998cf1">
 </p>
 
+<p align="center" width="100%">
+<img src="https://github.com/VieroFamico/Lost-Place/assets/145670324/aeda58cb-dcd3-45d3-90c6-453b00e015dd">
+</p>
+
 # Main Objective 
 Find the key and get out.
 
