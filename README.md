@@ -20,7 +20,7 @@ You are a lost detective, waking up in a strange room where boundaries between r
 The player must locate a key within the labyrint in order to escape, armed with only a gun, the player must strategically defeat the creatures in this mansion to keep forging ahead.  While navigating the maze, various resources will be encountered, such as: medkits, glowsticks, and ammunitions. Resources and stamina management are crucial, demanding player to make the right decision to escape safely. 
 
 <p align="center" width="100%">
-<img src="https://github.com/VieroFamico/Lost-Place/assets/145670324/7c229a45-7858-479c-ba67-1b03c1e487e7">
+<img src="https://github.com/VieroFamico/Lost-Place/assets/145670324/5f199f2d-38c3-48ee-be32-5f74706a7a64">
 </p>
 
 <p align="center" width="100%">
